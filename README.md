@@ -9,8 +9,8 @@ A simple shopping cart application built in Java. This project helps you underst
 - View the items in your shopping cart along with their prices
 - Calculate and view the total price of all items in your cart
 - Finish shopping by typing 'done' when prompted for an item name
-<br> <b> Built with:</b>    
-
+<br>
+<b> Built with:</b>    
 - Java programming language
 - Java Util (HashMap, Map, Scanner)
 - Object-Oriented Programming (OOP) concepts
