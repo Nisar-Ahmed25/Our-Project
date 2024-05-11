@@ -4,10 +4,11 @@ A simple shopping cart application built in Java. This project helps you underst
 
 <b> What you can do: </b>
 
-- Enter your items.
-- Enter the price of items.
-- If you buy more you can buy. if you finsh it make your total price.
-
+- Create a shopping account by entering your name
+- Add items to your shopping cart by entering their names and prices
+- View the items in your shopping cart along with their prices
+- Calculate and view the total price of all items in your cart
+- Finish shopping by typing 'done' when prompted for an item name
 <b> Built with:</b>
 
 - Java programming language
