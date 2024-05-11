@@ -1,3 +1,4 @@
+Faraz Ali 
 <b> Java Shopping Cart </b>
 <br>
 A simple shopping cart application built in Java. This project helps you understand the basics of Java programming and how to create a shopping cart system.
