@@ -4,9 +4,9 @@ A simple shopping cart application built in Java. This project helps you underst
 
 <b> What you can do: </b>
 
-- Enter nter your items.
+- Enter your items.
 - Enter the price of items.
-- If you buy more you can buy if you finsh it make your total price.
+- If you buy more you can buy. if you finsh it make your total price.
 
 <b> Built with:</b>
 
