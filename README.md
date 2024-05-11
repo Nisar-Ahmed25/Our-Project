@@ -1,22 +1,22 @@
-<b> Java Shopping Cart </b>
+<b> Java Shopping Cart </b>  Nisar Ahmed
 <br>
 A simple shopping cart application built in Java. This project helps you understand the basics of Java programming and how to create a shopping cart system.
 
-<b> What you can do: </b>
+<b> What you can do: </b>  Nisar Ahmed 
 
 - Create a shopping account by entering your name
 - Add items to your shopping cart by entering their names and prices
 - View the items in your shopping cart along with their prices
 - Calculate and view the total price of all items in your cart
 - Finish shopping by typing 'done' when prompted for an item name
-<b> Built with:</b>
+<b> Built with:</b>    Faraz Ali
 
 - Java programming language
 - Java Util (HashMap, Map, Scanner)
 - Object-Oriented Programming (OOP) concepts
 - Console input/output
 
-<b> Great for:<b/>
+<b> Great for:<b/>    Nisar Ahmed
 - Beginners learning Java programming
 - Understanding basic data structures (HashMap, Map)
 - Practicing Object-Oriented Programming (OOP) concepts
