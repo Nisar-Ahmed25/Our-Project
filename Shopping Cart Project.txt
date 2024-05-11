@@ -6,7 +6,7 @@ import java.util.Scanner;
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         
-        // Create a map to store items and their prices
+        // Student 1: Create a map to store items and their prices
         Map<String, Double> items = new HashMap<>();
 
         System.out.println("Welcome to the Shopping Cart App!");
@@ -15,7 +15,7 @@ import java.util.Scanner;
         System.out.print("Enter your name: ");
         String userName = scanner.nextLine();
 
-        // Main loop for adding items
+        // Student 2: Main loop for adding items
         boolean addingItems = true;
         while (addingItems) {
             System.out.print("Enter the name of the item (or type 'done' to finish): ");
@@ -26,26 +26,26 @@ import java.util.Scanner;
             } else {
                 System.out.print("Enter the price of the item: ");
                 double itemPrice = scanner.nextDouble();
-                scanner.nextLine(); // Consume newline character
+                scanner.nextLine(); // Student 1: Consume newline character
                 
-                // Add item and price to the map
+                // Student 2: Add item and price to the map
                 items.put(itemName, itemPrice);
             }
         }
 
-        // Displaying the items and their prices
+        // Student 1: Displaying the items and their prices
         System.out.println("\nItems in your shopping cart:");
         for (Map.Entry<String, Double> entry : items.entrySet()) {
             System.out.println(entry.getKey() + " - $" + entry.getValue());
         }
 
-        // Calculating the total price
+        // Student 2: Calculating the total price
         double totalPrice = 0.0;
         for (double price : items.values()) {
             totalPrice += price;
         }
 
-        // Displaying the total price
+        // Student 1: Displaying the total price
         System.out.println("\nTotal price: $" + totalPrice);
         System.out.println("Thank you, " + userName + ", for shopping with us!");
     }
