@@ -28,4 +28,4 @@ A simple shopping cart application built in Java. This project helps you underst
    <b> Developed by:</b>
 
 - Nisaer Ahmed Roll No: 2k23CSEE/52 
-- Faraz Ali Roll No: 2k23CSEE/52
+- Faraz Ali Roll No: 2k23CSME/14
