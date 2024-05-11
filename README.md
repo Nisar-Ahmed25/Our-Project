@@ -4,17 +4,23 @@ A simple shopping cart application built in Java. This project helps you underst
 
 <b> What you can do: </b>
 
-- Browse products and add them to your cart
-- View your cart and remove items
-- Checkout and pay for your products
+- Enter nter your items.
+- Enter the price of items.
+- If you buy more you can buy if you finsh it make your total price.
 
-Built with:
+<b> Built with:</b>
 
 - Java programming language
-- Java Swing for the user interface
+- Java Util (HashMap, Map, Scanner)
+- Object-Oriented Programming (OOP) concepts
+- Console input/output
 
-Great for:
+<b> Great for:</>
 
-- Beginners learning Java
-- Understanding basic e-commerce concepts
-- Building a simple shopping cart system
+    - Beginners learning Java programming
+    - Understanding basic data structures (HashMap, Map)
+    - Practicing Object-Oriented Programming (OOP) concepts
+    - Building console-based applications
+    - Learning how to handle user input and output
+    - Understanding basic e-commerce concepts (shopping cart, items, prices)
+    - Small projects or assignments in Java programming courses
