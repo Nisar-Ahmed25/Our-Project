@@ -15,12 +15,11 @@ A simple shopping cart application built in Java. This project helps you underst
 - Object-Oriented Programming (OOP) concepts
 - Console input/output
 
-<b> Great for:</>
-
-    - Beginners learning Java programming
-    - Understanding basic data structures (HashMap, Map)
-    - Practicing Object-Oriented Programming (OOP) concepts
-    - Building console-based applications
-    - Learning how to handle user input and output
-    - Understanding basic e-commerce concepts (shopping cart, items, prices)
-    - Small projects or assignments in Java programming courses
+<b> Great for:<b/>
+- Beginners learning Java programming
+- Understanding basic data structures (HashMap, Map)
+- Practicing Object-Oriented Programming (OOP) concepts
+- Building console-based applications
+- Learning how to handle user input and output
+- Understanding basic e-commerce concepts (shopping cart, items, prices)
+- Small projects or assignments in Java programming courses
