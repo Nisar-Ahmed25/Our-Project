@@ -1,8 +1,8 @@
 <b> Java Shopping Cart </b>   
  
  <b> Developed by:</b>
-- Nisaer Ahmed Roll No: 2k23CSEE/52 
-- Faraz Ali Roll No: 2k23CSME/14
+- Nisar Ahmed Roll No: 2k23/CSEE/52 
+- Faraz Ali Roll No: 2k23/CSME/14
 <br>
 A simple shopping cart application built in Java. This project helps you understand the basics of Java programming and how to create a shopping cart system.
 
