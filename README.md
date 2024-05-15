@@ -29,6 +29,5 @@ A simple shopping cart application built in Java. This project helps you underst
 - Learning how to handle user input and output
 - Understanding basic e-commerce concepts (shopping cart, items, prices)
 - Small projects or assignments in Java programming courses
-<br>
-   <b> Developed by:</b>
 
+   
