@@ -6,7 +6,7 @@
 <br>
 A simple shopping cart application built in Java. This project helps you understand the basics of Java programming and how to create a shopping cart system.
 
-
+<br>
 <b> What you can do: </b> 
 
 - Create a shopping account by entering your name
